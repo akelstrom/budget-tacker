@@ -7,19 +7,19 @@ const DATA_CACHE_NAME = "Data-cache-v1";
 //files to cache
 const FILES_TO_CACHE = [
   "/",
-  "/index.html",
-  "/manifest.webmanifest",
-  "/index.js",
-  "/idb.js",
-  "/css/styles.css",
-  "/images/icons/icon-96x96.png",
-  "/images/icons/icon-72x72.png",
-  "/images/icons/icon-128x128.png",
-  "/images/icons/icon-144x144.png",
-  "/images/icons/icon-152x152.png",
-  "/images/icons/icon-192x192.png",
-  "/images/icons/icon-384x384.png",
-  "/images/icons/icon-512x512.png",
+  "./index.html",
+  "./manifest.webmanifest",
+  "./js/index.js",
+  "./js/idb.js",
+  "./css/styles.css",
+  "./images/icons/icon-96x96.png",
+  "./images/icons/icon-72x72.png",
+  "./images/icons/icon-128x128.png",
+  "./images/icons/icon-144x144.png",
+  "./images/icons/icon-152x152.png",
+  "./images/icons/icon-192x192.png",
+  "./images/icons/icon-384x384.png",
+  "./images/icons/icon-512x512.png",
 ];
 
 //service worker
